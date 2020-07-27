@@ -1,0 +1,599 @@
+[08-Jan-2020 12:03:36 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:03:39 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:03:41 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:03:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:04:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:04:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:11:37 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:11:41 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:12:38 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:12:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:12:46 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 12:12:54 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/index.php:9) in /home/brookees/public_html/index.php on line 26
+[08-Jan-2020 15:44:42 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 127
+[08-Jan-2020 15:44:42 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 132
+[08-Jan-2020 15:44:42 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 138
+[08-Jan-2020 15:44:42 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 143
+[08-Jan-2020 15:44:42 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 148
+[08-Jan-2020 15:44:42 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 153
+[08-Jan-2020 17:55:43 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 129
+[08-Jan-2020 17:55:43 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 135
+[08-Jan-2020 17:55:43 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 141
+[08-Jan-2020 17:55:43 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[08-Jan-2020 17:55:43 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 151
+[08-Jan-2020 17:55:43 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 156
+[09-Jan-2020 11:56:37 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 129
+[09-Jan-2020 11:56:37 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 135
+[09-Jan-2020 11:56:37 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 141
+[09-Jan-2020 11:56:37 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[09-Jan-2020 11:56:37 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 151
+[09-Jan-2020 11:56:37 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 156
+[14-Jan-2020 17:52:13 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/brookees/public_html/server.php on line 12
+[14-Jan-2020 18:05:55 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/brookees/public_html/server.php on line 97
+[15-Jan-2020 14:41:16 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:41:25 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:41:42 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:42:49 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:43:10 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:43:57 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:44:04 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:44:24 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:46:44 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:46:47 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:54:46 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:54:49 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:54:52 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 86
+[15-Jan-2020 14:57:16 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 87
+[15-Jan-2020 14:57:18 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 87
+[15-Jan-2020 14:57:20 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 87
+[15-Jan-2020 14:58:47 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 87
+[15-Jan-2020 14:58:49 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/brookees/public_html/server.php on line 87
+[15-Jan-2020 15:15:59 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 80
+[15-Jan-2020 15:15:59 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 80
+[15-Jan-2020 15:15:59 Africa/Lagos] PHP Warning:  include(): Failed opening '../home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/server.php on line 80
+[15-Jan-2020 15:15:59 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/server.php:104
+Stack trace:
+#0 /home/brookees/public_html/signup.php(1): include()
+#1 {main}
+  thrown in /home/brookees/public_html/server.php on line 104
+[15-Jan-2020 15:51:05 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 2
+[15-Jan-2020 15:51:05 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 2
+[15-Jan-2020 15:51:05 Africa/Lagos] PHP Warning:  include(): Failed opening '../home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/server.php on line 2
+[15-Jan-2020 15:53:20 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 2
+[15-Jan-2020 15:53:20 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 2
+[15-Jan-2020 15:53:20 Africa/Lagos] PHP Warning:  include(): Failed opening '../home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/server.php on line 2
+[15-Jan-2020 15:53:20 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/server.php:105
+Stack trace:
+#0 /home/brookees/public_html/signup.php(1): include()
+#1 {main}
+  thrown in /home/brookees/public_html/server.php on line 105
+[15-Jan-2020 17:11:34 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/testingmail.php on line 3
+[15-Jan-2020 17:11:34 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/testingmail.php on line 3
+[15-Jan-2020 17:11:34 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='/home/brookees/php:.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/testingmail.php on line 3
+[15-Jan-2020 17:11:34 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail/mime.php): failed to open stream: No such file or directory in /home/brookees/public_html/testingmail.php on line 4
+[15-Jan-2020 17:11:34 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail/mime.php): failed to open stream: No such file or directory in /home/brookees/public_html/testingmail.php on line 4
+[15-Jan-2020 17:11:34 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail/mime.php' for inclusion (include_path='/home/brookees/php:.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/testingmail.php on line 4
+[15-Jan-2020 17:13:55 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/testingmail.php on line 3
+[15-Jan-2020 17:13:55 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/testingmail.php on line 3
+[15-Jan-2020 17:13:55 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='/home/brookees/php:.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/testingmail.php on line 3
+[15-Jan-2020 17:13:55 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail/mime.php): failed to open stream: No such file or directory in /home/brookees/public_html/testingmail.php on line 4
+[15-Jan-2020 17:13:55 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail/mime.php): failed to open stream: No such file or directory in /home/brookees/public_html/testingmail.php on line 4
+[15-Jan-2020 17:13:55 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail/mime.php' for inclusion (include_path='/home/brookees/php:.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/testingmail.php on line 4
+[15-Jan-2020 17:41:21 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/qservers_mail.php on line 3
+[15-Jan-2020 17:41:21 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/qservers_mail.php on line 3
+[15-Jan-2020 17:41:21 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='/home/brookees/php:.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/qservers_mail.php on line 3
+[15-Jan-2020 17:42:02 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/qservers_mail.php on line 3
+[15-Jan-2020 17:42:02 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/qservers_mail.php on line 3
+[15-Jan-2020 17:42:02 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='/home/brookees/php:.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/qservers_mail.php on line 3
+[15-Jan-2020 17:45:53 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/qservers_mail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/qservers_mail.php on line 31
+[15-Jan-2020 17:47:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/qservers_mail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/qservers_mail.php on line 31
+[15-Jan-2020 17:48:09 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/qservers_mail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/qservers_mail.php on line 31
+[15-Jan-2020 17:48:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/qservers_mail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/qservers_mail.php on line 31
+[15-Jan-2020 17:49:38 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/qservers_mail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/qservers_mail.php on line 31
+[15-Jan-2020 17:54:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/qservers_mail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/qservers_mail.php on line 31
+[15-Jan-2020 17:58:00 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/qservers_mail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/qservers_mail.php on line 31
+[15-Jan-2020 17:59:20 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/qservers_mail.php on line 2
+[15-Jan-2020 17:59:20 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/qservers_mail.php on line 2
+[15-Jan-2020 17:59:20 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/qservers_mail.php on line 2
+[15-Jan-2020 17:59:28 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/qservers_mail.php on line 2
+[15-Jan-2020 17:59:28 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/qservers_mail.php on line 2
+[15-Jan-2020 17:59:28 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/qservers_mail.php on line 2
+[15-Jan-2020 17:59:28 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/qservers_mail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/qservers_mail.php on line 31
+[15-Jan-2020 18:01:52 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/qservers_mail.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/qservers_mail.php on line 30
+[15-Jan-2020 18:04:05 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:04:05 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:04:05 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:04:11 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:04:11 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:04:11 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:04:11 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/gotomail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/gotomail.php on line 31
+[15-Jan-2020 18:06:55 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:06:55 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:06:55 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:07:27 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:07:27 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:07:27 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:07:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/gotomail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/gotomail.php on line 31
+[15-Jan-2020 18:07:50 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:07:50 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:07:50 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:08:01 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:08:01 Africa/Lagos] PHP Warning:  include(/home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:08:01 Africa/Lagos] PHP Warning:  include(): Failed opening '/home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 2
+[15-Jan-2020 18:08:01 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/gotomail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/gotomail.php on line 31
+[15-Jan-2020 18:15:13 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/brookees/public_html/gotomail.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/brookees/public_html/gotomail.php on line 31
+[15-Jan-2020 18:19:40 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/brookees/public_html/gotomail.php on line 27
+[15-Jan-2020 18:27:42 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/brookees/public_html/gotomail.php on line 27
+[15-Jan-2020 18:31:08 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/brookees/public_html/gotomail.php on line 23
+[15-Jan-2020 18:34:35 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/brookees/public_html/gotomail.php on line 23
+[16-Jan-2020 07:20:34 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 2
+[16-Jan-2020 07:20:34 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 2
+[16-Jan-2020 07:20:34 Africa/Lagos] PHP Warning:  include(): Failed opening '../home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/server.php on line 2
+[16-Jan-2020 07:20:44 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 2
+[16-Jan-2020 07:20:44 Africa/Lagos] PHP Warning:  include(../home/brookees/Mail.php): failed to open stream: No such file or directory in /home/brookees/public_html/server.php on line 2
+[16-Jan-2020 07:20:44 Africa/Lagos] PHP Warning:  include(): Failed opening '../home/brookees/Mail.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/server.php on line 2
+[16-Jan-2020 09:24:04 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 5
+[16-Jan-2020 09:24:04 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 5
+[16-Jan-2020 09:24:04 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 5
+[16-Jan-2020 09:28:50 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 09:28:50 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 09:28:50 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/PHPMailer.php' (include_path='/opt/cpanel/ea-php70/root/usr/share/pear.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 09:33:03 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 09:33:03 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 09:33:03 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/PHPMailer.php' (include_path='/opt/cpanel/ea-php70/root/usr/share/pear.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:02:48 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 6
+[16-Jan-2020 11:02:48 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 6
+[16-Jan-2020 11:02:48 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 6
+[16-Jan-2020 11:34:56 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:34:56 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:34:56 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:37:10 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:37:10 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:37:10 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:38:08 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:38:08 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:38:08 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:41:45 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:41:45 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:41:45 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:41:47 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:41:47 Africa/Lagos] PHP Warning:  require(PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 11:41:47 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/brookees/public_html/gotomail.php on line 7
+[16-Jan-2020 12:14:58 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[16-Jan-2020 12:14:58 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[16-Jan-2020 12:15:43 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 197
+[16-Jan-2020 12:15:43 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 198
+[16-Jan-2020 12:15:43 Africa/Lagos] PHP Notice:  Undefined variable: result in /home/brookees/public_html/server.php on line 201
+[16-Jan-2020 12:15:43 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/brookees/public_html/server.php on line 201
+[16-Jan-2020 12:57:39 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 197
+[16-Jan-2020 12:57:39 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 198
+[16-Jan-2020 12:57:39 Africa/Lagos] PHP Notice:  Undefined variable: result in /home/brookees/public_html/server.php on line 201
+[16-Jan-2020 12:57:39 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/brookees/public_html/server.php on line 201
+[16-Jan-2020 13:14:38 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 197
+[16-Jan-2020 13:14:39 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 198
+[16-Jan-2020 13:15:41 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 197
+[16-Jan-2020 13:15:41 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 198
+[16-Jan-2020 13:15:54 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 197
+[16-Jan-2020 13:15:54 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 198
+[16-Jan-2020 13:18:18 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 197
+[16-Jan-2020 13:18:18 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 198
+[16-Jan-2020 13:20:25 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 197
+[16-Jan-2020 13:20:25 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 198
+[16-Jan-2020 13:24:30 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 197
+[16-Jan-2020 13:24:30 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 198
+[16-Jan-2020 13:32:56 Africa/Lagos] PHP Warning:  mysqli_escape_string() expects exactly 2 parameters, 1 given in /home/brookees/public_html/server.php on line 198
+[16-Jan-2020 14:35:09 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[16-Jan-2020 14:35:09 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[29-Jan-2020 22:43:17 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:43:48 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:46:52 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:52:48 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:55:58 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:58:32 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:58:42 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:59:11 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:59:16 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:59:24 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 22:59:38 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:00:36 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:00:45 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:12:10 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:12:28 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:12:30 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:12:34 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:12:38 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:14:30 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:14:54 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:15:16 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:31:46 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[29-Jan-2020 23:33:01 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 00:21:03 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 00:33:40 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 03:29:18 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 05:11:16 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 07:14:29 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:00:14 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:00:21 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:00:41 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:01:21 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:02:02 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:02:14 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:02:38 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:05:57 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:07:18 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:09:30 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:11:24 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:13:55 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 38
+[30-Jan-2020 08:26:46 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 40
+[30-Jan-2020 08:27:18 Africa/Lagos] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/brookees/public_html/header.php on line 40
+[30-Jan-2020 09:33:33 Africa/Lagos] PHP Notice:  Undefined variable: pwd1 in /home/brookees/public_html/server.php on line 38
+[31-Jan-2020 10:34:58 Africa/Lagos] PHP Notice:  Undefined variable: pwd1 in /home/brookees/public_html/server.php on line 38
+[31-Jan-2020 10:35:34 Africa/Lagos] PHP Notice:  Undefined variable: pwd1 in /home/brookees/public_html/server.php on line 38
+[31-Jan-2020 10:36:55 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[31-Jan-2020 10:36:55 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[31-Jan-2020 10:41:45 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 10:41:51 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 10:41:51 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 10:53:40 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 10:56:47 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[31-Jan-2020 10:56:47 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[31-Jan-2020 11:00:56 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[31-Jan-2020 11:00:56 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[31-Jan-2020 11:01:50 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 11:02:06 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 11:05:29 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/brookees/public_html/server.php on line 202
+[31-Jan-2020 11:05:50 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/brookees/public_html/server.php on line 202
+[31-Jan-2020 11:08:34 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 11:09:30 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/brookees/public_html/server.php on line 217
+[31-Jan-2020 11:09:50 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 11:09:55 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 11:12:07 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 11:20:08 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 11:25:19 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 204
+[31-Jan-2020 11:27:37 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/brookees/public_html/server.php on line 201
+[31-Jan-2020 11:29:07 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 203
+[31-Jan-2020 11:35:21 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[31-Jan-2020 11:35:21 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[31-Jan-2020 11:36:28 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/brookees/public_html/server.php on line 203
+[31-Jan-2020 11:38:37 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[31-Jan-2020 11:38:37 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[31-Jan-2020 11:43:42 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[31-Jan-2020 11:43:42 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[31-Jan-2020 11:49:02 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[31-Jan-2020 11:49:05 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[31-Jan-2020 12:00:47 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[31-Jan-2020 12:00:47 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[31-Jan-2020 12:13:02 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 118
+[31-Jan-2020 12:13:02 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 118
+[31-Jan-2020 12:13:02 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 133
+[31-Jan-2020 12:13:02 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 144
+[31-Jan-2020 12:13:02 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 155
+[31-Jan-2020 12:13:02 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 165
+[31-Jan-2020 12:13:02 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 173
+[31-Jan-2020 12:13:02 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 183
+[31-Jan-2020 12:16:20 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 118
+[31-Jan-2020 12:16:20 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 118
+[31-Jan-2020 12:16:20 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 133
+[31-Jan-2020 12:16:20 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 144
+[31-Jan-2020 12:16:20 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 155
+[31-Jan-2020 12:16:20 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 165
+[31-Jan-2020 12:16:20 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 173
+[31-Jan-2020 12:16:20 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 183
+[31-Jan-2020 12:34:08 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 118
+[31-Jan-2020 12:34:08 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 118
+[31-Jan-2020 12:34:08 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 133
+[31-Jan-2020 12:34:08 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 144
+[31-Jan-2020 12:34:08 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 155
+[31-Jan-2020 12:34:08 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 165
+[31-Jan-2020 12:34:08 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 173
+[31-Jan-2020 12:34:08 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 183
+[31-Jan-2020 12:59:07 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[31-Jan-2020 12:59:07 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[31-Jan-2020 13:04:55 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 118
+[31-Jan-2020 13:04:55 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 118
+[31-Jan-2020 13:04:55 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 133
+[31-Jan-2020 13:04:55 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 144
+[31-Jan-2020 13:04:55 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 155
+[31-Jan-2020 13:04:55 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 165
+[31-Jan-2020 13:04:55 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 173
+[31-Jan-2020 13:04:55 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 183
+[31-Jan-2020 13:11:14 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 119
+[31-Jan-2020 13:11:14 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 119
+[31-Jan-2020 13:11:14 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 134
+[31-Jan-2020 13:11:14 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 145
+[31-Jan-2020 13:11:14 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 156
+[31-Jan-2020 13:11:14 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 166
+[31-Jan-2020 13:11:14 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 174
+[31-Jan-2020 13:11:14 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 184
+[31-Jan-2020 14:02:20 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[31-Jan-2020 14:02:20 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[31-Jan-2020 14:02:20 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[31-Jan-2020 14:02:20 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[31-Jan-2020 14:02:20 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[31-Jan-2020 14:02:20 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[31-Jan-2020 14:02:20 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[31-Jan-2020 14:02:20 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[31-Jan-2020 14:36:27 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[31-Jan-2020 14:36:27 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[31-Jan-2020 14:36:27 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[31-Jan-2020 14:36:27 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[31-Jan-2020 14:36:27 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[31-Jan-2020 14:36:27 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[31-Jan-2020 14:36:27 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[31-Jan-2020 14:36:27 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[31-Jan-2020 14:56:57 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[31-Jan-2020 14:56:57 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[31-Jan-2020 14:56:57 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[31-Jan-2020 14:56:57 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[31-Jan-2020 14:56:57 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[31-Jan-2020 14:56:57 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[31-Jan-2020 14:56:57 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[31-Jan-2020 14:56:57 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[01-Feb-2020 09:36:58 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[01-Feb-2020 09:36:58 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[01-Feb-2020 09:36:58 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[01-Feb-2020 09:36:58 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[01-Feb-2020 09:36:58 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[01-Feb-2020 09:36:58 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[01-Feb-2020 09:36:58 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[01-Feb-2020 09:36:58 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[01-Feb-2020 09:36:58 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[01-Feb-2020 09:38:42 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[01-Feb-2020 09:38:42 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[01-Feb-2020 10:00:57 Africa/Lagos] PHP Notice:  Undefined index: data in /home/brookees/public_html/server.php on line 240
+[01-Feb-2020 10:05:34 Africa/Lagos] PHP Notice:  Undefined index: data in /home/brookees/public_html/server.php on line 240
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined index: data in /home/brookees/public_html/server.php on line 239
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/brookees/public_html/server.php:260) in /home/brookees/public_html/profile.php on line 5
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[03-Feb-2020 12:18:59 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[04-Feb-2020 17:09:32 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[04-Feb-2020 17:09:32 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[04-Feb-2020 17:09:32 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[04-Feb-2020 17:09:32 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[04-Feb-2020 17:09:32 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[04-Feb-2020 17:09:32 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[04-Feb-2020 17:09:32 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[04-Feb-2020 17:09:32 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[04-Feb-2020 17:09:32 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[07-Feb-2020 22:15:58 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[07-Feb-2020 22:15:58 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[07-Feb-2020 22:15:58 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[07-Feb-2020 22:15:58 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[07-Feb-2020 22:15:58 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[07-Feb-2020 22:15:58 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[07-Feb-2020 22:15:58 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[07-Feb-2020 22:15:58 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[07-Feb-2020 22:15:58 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[19-Feb-2020 13:12:02 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[19-Feb-2020 13:12:02 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[19-Feb-2020 13:12:02 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[19-Feb-2020 13:12:02 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[19-Feb-2020 13:12:02 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[19-Feb-2020 13:12:02 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[19-Feb-2020 13:12:02 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[19-Feb-2020 13:12:02 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[19-Feb-2020 13:12:02 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[25-Apr-2020 19:39:42 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[25-Apr-2020 19:39:43 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[25-Apr-2020 19:42:07 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 19:42:07 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 19:42:07 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[25-Apr-2020 19:42:07 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[25-Apr-2020 19:42:07 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[25-Apr-2020 19:42:07 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[25-Apr-2020 19:42:07 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[25-Apr-2020 19:42:07 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[25-Apr-2020 19:42:07 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[25-Apr-2020 19:44:56 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[25-Apr-2020 19:44:56 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[25-Apr-2020 19:50:41 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 19:50:41 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 19:50:41 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[25-Apr-2020 19:50:41 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[25-Apr-2020 19:50:41 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[25-Apr-2020 19:50:41 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[25-Apr-2020 19:50:41 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[25-Apr-2020 19:50:41 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[25-Apr-2020 19:50:41 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/brookees/public_html/profile.php on line 16
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 128
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 128
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 143
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 154
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 165
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 175
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 183
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 193
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/brookees/public_html/profile.php on line 258
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/brookees/public_html/profile.php on line 261
+[25-Apr-2020 20:41:42 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 299
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/brookees/public_html/profile.php on line 16
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 128
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 128
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 143
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 154
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 165
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 175
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 183
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 193
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/brookees/public_html/profile.php on line 258
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/brookees/public_html/profile.php on line 261
+[25-Apr-2020 20:41:45 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 299
+[25-Apr-2020 20:42:29 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/brookees/public_html/profile.php on line 16
+[25-Apr-2020 20:42:29 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/brookees/public_html/profile.php on line 258
+[25-Apr-2020 20:42:29 Africa/Lagos] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/brookees/public_html/profile.php on line 261
+[25-Apr-2020 22:05:23 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 22:05:23 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 22:05:23 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[25-Apr-2020 22:05:23 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[25-Apr-2020 22:05:23 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[25-Apr-2020 22:05:23 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[25-Apr-2020 22:05:23 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[25-Apr-2020 22:05:23 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[25-Apr-2020 22:05:23 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[25-Apr-2020 22:05:29 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 22:05:29 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 22:05:29 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[25-Apr-2020 22:05:29 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[25-Apr-2020 22:05:29 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[25-Apr-2020 22:05:29 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[25-Apr-2020 22:05:29 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[25-Apr-2020 22:05:29 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[25-Apr-2020 22:05:29 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[25-Apr-2020 22:24:57 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 22:24:57 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 22:24:57 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[25-Apr-2020 22:24:57 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[25-Apr-2020 22:24:57 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[25-Apr-2020 22:24:57 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[25-Apr-2020 22:24:57 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[25-Apr-2020 22:24:57 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[25-Apr-2020 22:24:57 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 301
+[25-Apr-2020 22:27:46 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 22:27:46 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[25-Apr-2020 22:27:46 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[25-Apr-2020 22:27:46 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[25-Apr-2020 22:27:46 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[25-Apr-2020 22:27:46 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[25-Apr-2020 22:27:46 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[25-Apr-2020 22:27:46 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[25-Apr-2020 22:27:46 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 301
+[26-Apr-2020 20:33:19 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[26-Apr-2020 20:33:19 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[26-Apr-2020 20:33:19 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[26-Apr-2020 20:33:19 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[26-Apr-2020 20:33:19 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[26-Apr-2020 20:33:19 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[26-Apr-2020 20:33:19 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[26-Apr-2020 20:33:19 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[26-Apr-2020 20:33:19 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 304
+[26-Apr-2020 20:33:23 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[26-Apr-2020 20:33:23 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[26-Apr-2020 20:33:23 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[26-Apr-2020 20:33:23 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[26-Apr-2020 20:33:23 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[26-Apr-2020 20:33:23 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[26-Apr-2020 20:33:23 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[26-Apr-2020 20:33:23 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[26-Apr-2020 20:33:23 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 304
+[26-Apr-2020 21:49:39 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[26-Apr-2020 21:49:39 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[26-Apr-2020 21:49:39 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[26-Apr-2020 21:49:39 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[26-Apr-2020 21:49:39 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[26-Apr-2020 21:49:39 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[26-Apr-2020 21:49:39 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[26-Apr-2020 21:49:39 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[26-Apr-2020 21:49:39 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[26-Apr-2020 21:49:43 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[26-Apr-2020 21:49:43 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[26-Apr-2020 21:49:43 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[26-Apr-2020 21:49:43 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[26-Apr-2020 21:49:43 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[26-Apr-2020 21:49:43 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[26-Apr-2020 21:49:43 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[26-Apr-2020 21:49:43 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[26-Apr-2020 21:49:43 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[26-Apr-2020 21:57:13 Africa/Lagos] PHP Notice:  Undefined index: data in /home/brookees/public_html/server.php on line 239
+[20-May-2020 18:27:31 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[20-May-2020 18:27:32 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[20-May-2020 18:27:32 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[20-May-2020 18:27:32 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[20-May-2020 18:27:32 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[20-May-2020 18:27:32 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[20-May-2020 18:27:32 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[20-May-2020 18:27:32 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[20-May-2020 18:27:32 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[20-May-2020 18:28:08 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[20-May-2020 18:28:08 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[20-May-2020 18:28:08 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[20-May-2020 18:28:08 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[20-May-2020 18:28:08 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[20-May-2020 18:28:08 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[20-May-2020 18:28:08 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[20-May-2020 18:28:08 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[20-May-2020 18:28:08 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[14-Jul-2020 22:11:45 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[14-Jul-2020 22:11:45 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[14-Jul-2020 22:11:45 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[14-Jul-2020 22:11:45 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[14-Jul-2020 22:11:45 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[14-Jul-2020 22:11:45 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[14-Jul-2020 22:11:45 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[14-Jul-2020 22:11:45 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[14-Jul-2020 22:11:45 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[14-Jul-2020 22:11:49 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[14-Jul-2020 22:11:49 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[14-Jul-2020 22:11:49 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[14-Jul-2020 22:11:49 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[14-Jul-2020 22:11:49 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[14-Jul-2020 22:11:49 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[14-Jul-2020 22:11:49 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[14-Jul-2020 22:11:49 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[14-Jul-2020 22:11:49 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[27-Jul-2020 13:56:00 Africa/Lagos] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Net_SMTP has a deprecated constructor in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 37
+[27-Jul-2020 13:56:00 Africa/Lagos] PHP Notice:  Undefined index: STARTTLS in /opt/cpanel/ea-php70/root/usr/share/pear/Mail/Net/SMTP.php on line 601
+[27-Jul-2020 13:59:16 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[27-Jul-2020 13:59:16 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[27-Jul-2020 13:59:16 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[27-Jul-2020 13:59:16 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[27-Jul-2020 13:59:16 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[27-Jul-2020 13:59:16 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[27-Jul-2020 13:59:16 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[27-Jul-2020 13:59:16 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[27-Jul-2020 13:59:16 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
+[27-Jul-2020 14:03:15 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/brookees/public_html/profile.php on line 120
+[27-Jul-2020 14:03:15 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/brookees/public_html/profile.php on line 120
+[27-Jul-2020 14:03:15 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 135
+[27-Jul-2020 14:03:15 Africa/Lagos] PHP Notice:  Undefined index: date in /home/brookees/public_html/profile.php on line 146
+[27-Jul-2020 14:03:15 Africa/Lagos] PHP Notice:  Undefined index: phoneno in /home/brookees/public_html/profile.php on line 157
+[27-Jul-2020 14:03:15 Africa/Lagos] PHP Notice:  Undefined index: address in /home/brookees/public_html/profile.php on line 167
+[27-Jul-2020 14:03:15 Africa/Lagos] PHP Notice:  Undefined variable: coursehistory in /home/brookees/public_html/profile.php on line 175
+[27-Jul-2020 14:03:15 Africa/Lagos] PHP Notice:  Undefined variable: payhistory in /home/brookees/public_html/profile.php on line 185
+[27-Jul-2020 14:03:15 Africa/Lagos] PHP Notice:  Undefined index: email in /home/brookees/public_html/profile.php on line 291
